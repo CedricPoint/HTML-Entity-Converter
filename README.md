@@ -18,19 +18,13 @@ Aucune dépendance externe requise (le script utilise uniquement des bibliothèq
 
 Clone ce dépôt sur ton ordinateur :
 
-bash
-Copier le code
 git clone https://github.com/ton-utilisateur/HTML-Entity-Converter.git
 Accède au dossier du projet :
 
-bash
-Copier le code
 cd HTML-Entity-Converter
 
 📖 Utilisation
 Lancer le script :
-
-bash
 
 python html_entity_converter.py
 Fournir le chemin complet du fichier HTML à convertir lorsque le script le demande.
