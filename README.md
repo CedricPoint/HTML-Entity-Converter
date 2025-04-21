@@ -36,7 +36,7 @@ Un outil Python professionnel et moderne pour convertir automatiquement les cara
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/HTML-Entity-Converter-Pro.git
+   git clone https://github.com/CedricPoint/HTML-Entity-Converter-Pro.git
    cd HTML-Entity-Converter-Pro
    ```
 
